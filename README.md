@@ -14,6 +14,12 @@ A text-based multiplayer game using the client-server model, allowing multiple u
 - Real-time multiplayer communication
 - Client-server architecture
 - GUI developed in NetBeans
+## 💡 Key Features:
+- Players connect and join rooms via GUI
+- Game starts in sync for all players
+- Real-time score updates
+- Leave, disconnect, and winner detection logic
+
 ## 🛠️ Skills Used 
 - TCP Client-Server Communication
 - Event-driven programming
